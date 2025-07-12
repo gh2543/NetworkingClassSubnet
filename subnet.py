@@ -3,21 +3,21 @@ uniquecode = 37509
 
 #problem 1
 p1Network = '195.122.115.0'
-p1Broadcast = '95.122.115.31'
+p1Broadcast = '195.122.115.31'
 p1First = '195.122.115.1'
-p1Last =  '95.122.115.30'
+p1Last =  '195.122.115.30'
 
 #problem 2
 p2Network = '106.107.76.0'
 p2Broadcast = '106.107.76.255'
-p2First = '106.107.76.0'
+p2First = '106.107.76.1'
 p2Last = '106.107.76.254'
 
 #problem 3
-p3Network = ''
-p3Broadcast = ''
-p3First = ''
-p3Last = ''
+p3Network = '17.93.38.0'
+p3Broadcast = '17.93.38.15'
+p3First = '17.93.38.1'
+p3Last = '17.93.38.14'
 
 #problem 4
 p4Network = ''
